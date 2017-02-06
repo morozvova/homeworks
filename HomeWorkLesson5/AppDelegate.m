@@ -33,6 +33,7 @@
               (long)anyHuman.weight, anyHuman.gender);
         [anyHuman movement];
     }
+    NSLog(@"---------1-4---------finished");
     
     
     

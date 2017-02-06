@@ -17,6 +17,7 @@
 		E779FB511E472683000F3867 /* VMCyclist.m in Sources */ = {isa = PBXBuildFile; fileRef = E779FB501E472683000F3867 /* VMCyclist.m */; };
 		E779FB541E4726AE000F3867 /* VMRunner.m in Sources */ = {isa = PBXBuildFile; fileRef = E779FB531E4726AE000F3867 /* VMRunner.m */; };
 		E779FB571E4726DA000F3867 /* VMSwimmer.m in Sources */ = {isa = PBXBuildFile; fileRef = E779FB561E4726DA000F3867 /* VMSwimmer.m */; };
+		E77FFFBB1E48F97B00A4820C /* VMSuperHuman.m in Sources */ = {isa = PBXBuildFile; fileRef = E77FFFBA1E48F97B00A4820C /* VMSuperHuman.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,8 @@
 		E779FB531E4726AE000F3867 /* VMRunner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VMRunner.m; sourceTree = "<group>"; };
 		E779FB551E4726DA000F3867 /* VMSwimmer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VMSwimmer.h; sourceTree = "<group>"; };
 		E779FB561E4726DA000F3867 /* VMSwimmer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VMSwimmer.m; sourceTree = "<group>"; };
+		E77FFFB91E48F97B00A4820C /* VMSuperHuman.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VMSuperHuman.h; sourceTree = "<group>"; };
+		E77FFFBA1E48F97B00A4820C /* VMSuperHuman.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VMSuperHuman.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 			children = (
 				E779FB4C1E47249F000F3867 /* VMHuman.h */,
 				E779FB4D1E47249F000F3867 /* VMHuman.m */,
+				E77FFFB91E48F97B00A4820C /* VMSuperHuman.h */,
+				E77FFFBA1E48F97B00A4820C /* VMSuperHuman.m */,
 				E779FB4F1E472683000F3867 /* VMCyclist.h */,
 				E779FB501E472683000F3867 /* VMCyclist.m */,
 				E779FB521E4726AE000F3867 /* VMRunner.h */,
@@ -174,6 +179,7 @@
 				E779FB3A1E472104000F3867 /* ViewController.m in Sources */,
 				E779FB371E472104000F3867 /* AppDelegate.m in Sources */,
 				E779FB571E4726DA000F3867 /* VMSwimmer.m in Sources */,
+				E77FFFBB1E48F97B00A4820C /* VMSuperHuman.m in Sources */,
 				E779FB511E472683000F3867 /* VMCyclist.m in Sources */,
 				E779FB541E4726AE000F3867 /* VMRunner.m in Sources */,
 				E779FB341E472104000F3867 /* main.m in Sources */,
@@ -333,6 +339,7 @@
 				E779FB481E472104000F3867 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

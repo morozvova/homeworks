@@ -12,9 +12,6 @@
 
 @interface VMHuman : NSObject
 
-
-
-
 @property(strong,nonatomic)NSString* name;
 @property(assign,nonatomic)CGFloat height;
 @property(assign,nonatomic)NSInteger weight;
